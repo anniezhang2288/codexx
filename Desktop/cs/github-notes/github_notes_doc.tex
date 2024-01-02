@@ -109,7 +109,6 @@ Note: starting Oct. 2020, any new repository is created with the default branch 
 
 \begin{center}
 \begin{lstlisting}[caption=commands to fix]
-
 git pull --rebase
 git push
 \end{lstlisting}
@@ -125,26 +124,14 @@ git push
  \item El conjunto de las matrices de tamaño $n \times{m}$ se representa como $\mathcal{M}_{n\times {m}}(\mathbb{K})$ donde $\mathbb{K}$ es el campo al cual pertenecen las entradas. El tamaño de una matriz siempre se da con el número de filas primero y el número de columnas después.
  \end {itemize}
  
-\section{Tipos de Matrices}
+\section{Resetting Remote Origin URL}
 
-\noindent\textbf{Matriz fila:} Una matriz fila está constituida por una sola fila.
 
-\[\begin{bmatrix}
-a_{11} & a_{12} & \cdots & a_{1m} \\
-\end{bmatrix}\]
+Use \texttt{git remote set-url origin new.git.url} 
 
-\noindent\textbf{Matriz columna:} La matriz columna tiene una sola columna.
 
-\[\begin{bmatrix}
-a_{11} \\
-a_{21} \\
-\vdots \\
-a_{n1} \\
-\end{bmatrix}\]
 
-\textbf{Matriz rectangular:} La matriz rectangular tiene distinto número de filas que de columnas, siendo su dimensión $n\times {m}$. (Ver expresión (1)).
 
-\textbf{Matriz traspuesta:} Dada una matriz $A$, se llama matriz traspuesta de A a la matriz que se obtiene cambiando ordenadamente las filas por las columnas y se denota por $A^t$.
 
 Si A = (($a_{ij}$)), entonces $A^t$ = (($a_{ji}$))
 

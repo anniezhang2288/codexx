@@ -1,0 +1,16 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Definiciones}{1}{}%
+\contentsline {section}{\numberline {2}Tipos de Matrices}{2}{}%
+\contentsline {section}{\numberline {3}Operaciones con Matrices}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Suma o adición}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Producto por un escalar}{5}{}%
+\contentsline {subsection}{\numberline {3.3}Producto Matricial}{6}{}%
+\contentsline {section}{\numberline {4}Matrices Binarias y Grafos}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Relaciones binarias}{8}{}%
+\contentsline {subsection}{\numberline {4.2}Grafos}{8}{}%
+\contentsline {subsection}{\numberline {4.3}Representación de grafos}{9}{}%
+\contentsline {section}{\numberline {5}Matriz Jacobiana}{10}{}%
+\contentsline {subsection}{\numberline {5.1}Función escalar}{11}{}%
+\contentsline {subsection}{\numberline {5.2}Función vectorial}{11}{}%
+\contentsline {subsection}{\numberline {5.3}Ejemplos}{12}{}%
+\contentsline {section}{\numberline {6}Maxima}{12}{}%
